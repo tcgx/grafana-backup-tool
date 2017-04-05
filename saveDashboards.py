@@ -1,6 +1,10 @@
 import argparse
+import sys
 from dashboardApi import *
 from commons import *
+
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 parser = argparse.ArgumentParser()
 parser.add_argument('path',  help='folder path to save dashboards')
