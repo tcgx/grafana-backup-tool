@@ -35,9 +35,9 @@ you can use them to
 
 ## Setting
 
-1. Export the environment variables bellow
-	2. GRAFANA_URL (the default url is http://localhost:3000)
-	3. GRAFANA_TOKEN 
+**Export the environment variables bellow or edit in _grafanaSettings.py_**
+1. GRAFANA_URL (the default url is http://localhost:3000)
+2. GRAFANA_TOKEN
         
 Remember, you can the token from [Grafana Web page](http://docs.grafana.org/http_api/auth/)
 
