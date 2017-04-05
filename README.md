@@ -35,7 +35,7 @@ you can use them to
 
 ## Setting
 
-**Export the environment variables bellow or edit in _grafanaSettings.py_**
+Export the environment variables bellow or edit in **_grafanaSettings.py_**
 1. GRAFANA_URL (the default url is http://localhost:3000)
 2. GRAFANA_TOKEN
         
